@@ -1,0 +1,8 @@
+
+{
+  "ProductId": "001",
+  "name": "Hydrating Facial Cleanser",
+  "description": "A gentle cleanser that helps soothe dry skin.",
+  "price": 19.99,
+  "concerns": ["dryness", "flakiness"]
+}
